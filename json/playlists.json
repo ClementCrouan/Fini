@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Toutes les musiques",
+      "img": "",
+      "description": "Playlist de toutes vos musiques téléchargé",
+      "musics": [0,1]
+    },
+    {
+      "name": "Favoris",
+      "img": "",
+      "description": "Playlist de toutes vos musiques favorites",
+      "musics": [1]
+    },
+    {
+      "name": "Les plus écoutées",
+      "img": "",
+      "description": "Playlist de toutes les musiques les plus écoutés ce mois ci",
+      "musics": []
+    },
+    {
+      "name": "Rap",
+      "img": "img/pic-1.png",
+      "description": "Playlist des musiques rap",
+      "musics": []
+    },
+    {
+      "name": "Pop",
+      "img": "",
+      "description": "Playlist des musiques pop",
+      "musics": [0,1]
+    }
+  ]
